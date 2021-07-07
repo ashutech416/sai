@@ -1,0 +1,18 @@
+44. What GUI do you use for working on GIT?
+There are many GUI for GIT that we can use. Some of these are:
+
+GitHub Desktop
+GITX-dev
+Gitbox
+Git-cola
+SourceTree
+Git Extensions
+SmartGit
+GitUp
+ 
+
+45. What is the use of git diff command in GIT?
+In GIT, git diff command is used to display the differences between 2 versions, or between working directory and an index, or between index and most recent commit.
+It can also display changes between two blob objects, or between two files on disk in GIT.
+It helps in finding the changes that can be used for code review for a feature or bug fix.
+ 
